@@ -1,4 +1,4 @@
-# Spring Data JPA Bug: deleteAll() failing for Entities with Composite Primary Keys
+# Spring Data JPA Bug: deleteAll() failing for entity with composite primary key
 
 ## Outline
 We are unable to use the CrudRepository.deleteAll() method for an entity. We are using the following dependencies:
