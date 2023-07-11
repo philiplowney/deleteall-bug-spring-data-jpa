@@ -1,4 +1,4 @@
-# Spring Data JPA Bug: deleteAll() failing for entity with composite primary key
+# Hibernate/Spring Data JPA Bug: deleteAll() failing for entity with composite primary key
 
 _Please note that this has been reported here: https://github.com/spring-projects/spring-data-jpa/issues/3065_
 
